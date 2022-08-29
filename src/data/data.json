@@ -1,0 +1,138 @@
+[
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 1",
+    "StationID": "1",
+    "BusID": "",
+    "BusModel": ""
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 2",
+    "StationID": "2",
+    "BusID": "2",
+    "BusModel": "MCV230"
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 3",
+    "StationID": "3",
+    "BusID": "3",
+    "BusModel": "MCV600"
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 3",
+    "StationID": "3",
+    "BusID": "13",
+    "BusModel": "MCV500"
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 4",
+    "StationID": "4",
+    "BusID": "4",
+    "BusModel": "MCV500"
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 5",
+    "StationID": "5",
+    "BusID": "5",
+    "BusModel": "MCV800"
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 7",
+    "StationID": "7",
+    "BusID": "7",
+    "BusModel": "MCV800DD"
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 6",
+    "StationID": "6",
+    "BusID": "6",
+    "BusModel": "MCV240"
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 8",
+    "StationID": "8",
+    "BusID": "",
+    "BusModel": ""
+  },
+  {
+    "LineName": "Line 1",
+    "LineID": "1",
+    "StationName": "Station 6",
+    "StationID": "6",
+    "BusID": "14",
+    "BusModel": "MCV230"
+  },
+  {
+    "LineName": "Line 2",
+    "LineID": "2",
+    "StationName": "Station 1",
+    "StationID": "1",
+    "BusID": "8",
+    "BusModel": "MCV223"
+  },
+  {
+    "LineName": "Line 2",
+    "LineID": "2",
+    "StationName": "Station 2",
+    "StationID": "2",
+    "BusID": "9",
+    "BusModel": "MCV400"
+  },
+  {
+    "LineName": "Line 2",
+    "LineID": "2",
+    "StationName": "Station 3",
+    "StationID": "3",
+    "BusID": "10",
+    "BusModel": "MCV220"
+  },
+  {
+    "LineName": "Line 2",
+    "LineID": "2",
+    "StationName": "Station 3",
+    "StationID": "3",
+    "BusID": "11",
+    "BusModel": "MCV800"
+  },
+  {
+    "LineName": "Line 2",
+    "LineID": "2",
+    "StationName": "Station 3",
+    "StationID": "3",
+    "BusID": "12",
+    "BusModel": "MCV600"
+  },
+  {
+    "LineName": "Line 2",
+    "LineID": "2",
+    "StationName": "Station 4",
+    "StationID": "4",
+    "BusID": "",
+    "BusModel": ""
+  },
+  {
+    "LineName": "Line 2",
+    "LineID": "2",
+    "StationName": "Station 5",
+    "StationID": "5",
+    "BusID": "",
+    "BusModel": ""
+  }
+]

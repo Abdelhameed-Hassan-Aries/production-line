@@ -1,0 +1,94 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+h2 {
+  margin: 0 50px;
+}
+
+.App {
+  height: 100vh;
+  text-align: center;
+}
+
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.line-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line-stations-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.circle {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 5px solid #000;
+  margin: 0 2px;
+}
+
+.line {
+  width: 50px;
+  height: 5px;
+  background-color: #000;
+  margin: 0 2px;
+}
+
+.bus {
+  height: 40px;
+  width: 40px;
+  /* position: absolute;
+  bottom: -70px;
+  left: 0; */
+}
+
+.bus-name {
+  height: 40px;
+  width: 40px;
+  /* position: absolute;
+  bottom: -150px;
+  left: 0; */
+}
+
+.station-name {
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  font-weight: bold;
+}
+
+.bus-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+
+.bus-group-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
